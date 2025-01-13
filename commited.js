@@ -13,3 +13,5 @@ names.forEach(greetUser);
 
 // Export the greetUser function for future use
 module.exports = greetUser;
+console.log("my name is gian");
+console.log("i am bada takatwar");
